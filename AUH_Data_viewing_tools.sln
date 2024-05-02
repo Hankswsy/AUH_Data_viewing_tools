@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1\WindowsFormsApp1.csproj", "{A58743EF-A91E-44A1-8523-528821EDAB01}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AUH_Data_viewing_tools", "WindowsFormsApp1\AUH_Data_viewing_tools.csproj", "{A58743EF-A91E-44A1-8523-528821EDAB01}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

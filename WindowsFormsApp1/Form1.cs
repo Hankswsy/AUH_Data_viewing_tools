@@ -12,7 +12,7 @@ using System.Windows.Forms.DataVisualization.Charting;
 using System.Reflection;
 using System.Security.Cryptography;
 
-namespace WindowsFormsApp1
+namespace AUH_Data_viewing_tools
 {
     public partial class Form1 : Form
     {
@@ -57,6 +57,7 @@ namespace WindowsFormsApp1
                 FileName = datanum[datanum.Length - 1];
                 label4.Text = FileName;
                 
+                comboBox1.Enabled = true;
 
                 if (File.Exists(filepath + "\\ECG.txt"))
                 {

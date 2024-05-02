@@ -2,44 +2,44 @@
 
 ## 1. 程式開啟畫面
 
-![程式開啟畫面](image.png)
+![程式開啟畫面](img/image.png)
 
 ## 2. 讀入數據
 
 ### A. 數據規則
 請先將同一病人的數據放置於同一資料夾內，並以"病歷號_量測日期"命名，資料夾內心電圖數據請以"ECG"命名，膚電數據請以"GSR"命名，檔案格式請以 txt 或 CSV 儲存。
-![TXT檔示例](image-1.png)
-![CSV檔示例](image-2.png)
+![TXT檔示例](img/image-1.png)
+![CSV檔示例](img/image-2.png)
 
 ### B. 點選讀取資料按鈕(紅圈處)
 
-![點擊讀取資料按鈕](image-5.png)
+![點擊讀取資料按鈕](img/image-5.png)
 
 ### C. 選擇資料夾
 
-![選取資料夾](image-4.png)
+![選取資料夾](img/image-4.png)
 
 
 ## 3. 選擇要檢視的資料列
 
 ### A. 讀入數據後會呈現病例代號及測試時間(紅圈處)
 
-![呈現病例代號](image-6.png)
+![呈現病例代號](img/image-6.png)
 
 ### B. 即可點選下拉式選單選擇要檢視的列資料
 
-![下拉式選單](image-7.png)
+![下拉式選單](img/image-7.png)
 
 ### 最後即會呈現ECG和GSR數據繪圖結果
 
-![繪圖結果](image-8.png)
+![繪圖結果](img/image-8.png)
 
 ## 4.  匯出CSV
 
 在匯入數據後，如要匯出整個量測資料即可點選匯出CSV檔按鈕(紅圈處)，即可匯出ECG和GSR資料
 
-![匯出CSV檔按鈕(紅圈處)](image-9.png)
+![匯出CSV檔按鈕(紅圈處)](img/image-9.png)
 
 檔案位置會在當前程式執行的目錄下，並以"病歷號_量測日期"命名
 
-![alt text](image-10.png)
+![alt text](img/image-10.png)

@@ -1,5 +1,7 @@
 # AUH_Data_viewing_tools
 
+## 下載鏈接: [Github releases](https://github.com/Hankswsy/AUH_Data_viewing_tools/releases/tag/v2.0)
+
 ## 1. 程式開啟畫面
 
 ![程式開啟畫面](img/image.png)
